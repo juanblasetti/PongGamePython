@@ -1,4 +1,4 @@
-#https://www.youtube.com/watch?v=XGf2GcyHPhc&t=15732s
+#
 # pong game by Juan Blasetti
 #
 #
